@@ -1,9 +1,9 @@
 import requests
 import json, time
 
-api_key = "pat_1R6RNkXKaYJXF3oUqlf05abxpDsRSpQ7RjgqqfUA1P2d6GltBaIfW1nQyGcKGt6m"
+api_key = "your token"
 
-botid = "7503045194523869236"
+botid = "your botid"
 baseUrl = 'https://api.coze.cn/v3/chat'
 headers = {
     "Authorization": f"Bearer {api_key}",
