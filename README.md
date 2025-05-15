@@ -7,7 +7,7 @@
 ## 项目简介
 本项目是一个基于Coze API的个人知识库问答系统，通过Flask框架提供Web服务接口，实现智能问答功能。
 
-## 功能说明https://github.com/Tom-grb/Personal-knowledge-base/blob/main/README.md
+## 功能说明
 - 提供Web界面进行问答交互
 - 调用Coze API实现智能问答
 
